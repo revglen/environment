@@ -6,3 +6,5 @@ print(sys.executable)
 
 r = requests.get("http://www.cnn.com")
 print(r.status_code)
+
+print ("hello world")
